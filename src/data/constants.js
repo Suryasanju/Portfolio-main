@@ -255,7 +255,7 @@ export const projects = [
 
     tags: ["React", "Tailwind CSS"],
     category: "web app",
-    github: "",
+    github: "https://github.com/Suryasanju/Portfolio-main.git",
     webapp: "https://portfolio-surya07.netlify.app/",
   },
 ];
